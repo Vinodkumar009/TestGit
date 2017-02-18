@@ -3,3 +3,5 @@ hey vinod this is your first sample on github !.....
 changed by today
 
 changed now(18/02/2017)
+
+checking use of diff
