@@ -1,0 +1,22 @@
+{
+  "name": "first_angular",
+  "version": "1.0.0",
+  "description": "Checking first angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinodkumar009/TestGit.git"
+  },
+  "keywords": [
+    "jdshfjhsd"
+  ],
+  "author": "vinod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinodkumar009/TestGit/issues"
+  },
+  "homepage": "https://github.com/Vinodkumar009/TestGit#readme"
+}

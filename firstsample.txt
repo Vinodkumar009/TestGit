@@ -1,4 +1,12 @@
+
 hey vinod this is your first sample on github ! and i'm from master.....
 
+hey vinod this is your first sample on github !.....
 
-changes done by employee
+
+changed by today
+
+changed now(18/02/2017)
+
+checking use of diff
+
